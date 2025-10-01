@@ -1,2 +1,3 @@
-# JS-learning
-A code repo for Java Script
+# js-hindi-youtube
+A code repo for javascript series
+
